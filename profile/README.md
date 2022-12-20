@@ -1,12 +1,4 @@
-## Hi there 👋
+## HELLO, WELCOME TO ECHELON
+Welcome to Echelon Capital Holdings Limited - Asia's premier investment firm for provision of alternative funding solutions to regional corporates. We were established by our founder who has years of industry experience and have been helping corporates to implement innovative solutions to provide liquidity to companies.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Respected financial institutions and decision makers select Echelon as their trusted partner to assist their operations. We create added values for our clients by drawing on the combined resources and expertise of our trusted partners to provide an integrated solution for your wealth and financial arrangements.
